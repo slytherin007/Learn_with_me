@@ -43,8 +43,11 @@ https://github.com/slytherin007/Learn_with_me/assets/60039504/2a9fc61e-1a4e-4979
 
 
 After the creation of the account, login to your account and start by creating your first project. 🎬
+<br><br>
 
+https://github.com/slytherin007/Learn_with_me/assets/60039504/6d41f163-912a-4fe1-a92f-7329f3a35a19.gif
 
+<br><br>
 
 Follow the tutorial for getting familiar with FlutterFlow User Interface by creating your first application. 📱
 
